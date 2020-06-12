@@ -1,0 +1,169 @@
+{
+  "events": [
+    {
+      "id": 5928101,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Cat Cabaret",
+      "description": "Yay felines!",
+      "location": "Meow Town",
+      "date": "2019-01-03T21:54:00.000Z",
+      "time": "2:00",
+      "attendees": []
+    },
+    {
+      "id": 8419988,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Kitty Cluster",
+      "description": "Yay cats!",
+      "location": "Catlandia",
+      "date": "2019-01-31T22:09:00.000Z",
+      "time": "7:00",
+      "attendees": []
+    },
+    {
+      "id": 4582797,
+      "user": {
+        "id": "abc123",
+        "name": "Adam"
+      },
+      "category": "animal welfare",
+      "organizer": "Adam",
+      "title": "Puppy Parade",
+      "description": "Yay pups!",
+      "location": "Puptown ",
+      "date": "2019-02-02T23:27:00.000Z",
+      "time": "1:00",
+      "attendees": []
+    },
+    {
+      "id": 577825,
+      "user": {
+        "id": "123",
+        "name": "Dharati Dekavadiya"
+      },
+      "category": "nature",
+      "organizer": "",
+      "title": "Working ?",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 752818,
+      "user": {
+        "id": "123",
+        "name": "Dharati Dekavadiya"
+      },
+      "category": "nature",
+      "organizer": "",
+      "title": "Planting Trees",
+      "description": "Plant Trees",
+      "location": "The Forest",
+      "date": "2020-06-05T12:39:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 881420,
+      "user": {
+        "id": "123",
+        "name": "Dharati Dekavadiya"
+      },
+      "category": "nature",
+      "organizer": "",
+      "title": "tes",
+      "description": "test",
+      "location": "tea",
+      "date": "2020-06-09T11:46:00.000Z",
+      "time": "3:00",
+      "attendees": []
+    },
+    {
+      "id": 46186,
+      "user": {
+        "id": "123",
+        "name": "Dharati Dekavadiya"
+      },
+      "category": "nature",
+      "organizer": "",
+      "title": "sdads",
+      "description": "adsadsad",
+      "location": "dsadsadasdsad",
+      "date": "2020-06-23T12:01:00.000Z",
+      "time": "5:00",
+      "attendees": []
+    },
+    {
+      "id": 792677,
+      "user": {
+        "id": "123",
+        "name": "Dharati Dekavadiya"
+      },
+      "category": "nature",
+      "organizer": "",
+      "title": "zxczxcxzc",
+      "description": "xzcxzcxzc",
+      "location": "cxzcxzczxczxc",
+      "date": "2020-06-25T12:02:00.000Z",
+      "time": "4:00",
+      "attendees": []
+    },
+    {
+      "id": 761884,
+      "user": {
+        "id": "123",
+        "name": "Dharati Dekavadiya"
+      },
+      "category": "nature",
+      "organizer": "",
+      "title": "gdfgd",
+      "description": "fsfsdf",
+      "location": "fsdfsdf",
+      "date": "2020-06-23T05:45:00.000Z",
+      "time": "18:00",
+      "attendees": []
+    },
+    {
+      "id": 208108,
+      "user": {
+        "id": "123",
+        "name": "Dharati Dekavadiya"
+      },
+      "category": "",
+      "organizer": "",
+      "title": "",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 427851,
+      "user": {
+        "id": "123",
+        "name": "Dharati Dekavadiya"
+      },
+      "category": "animal welfare",
+      "organizer": "",
+      "title": "fss",
+      "description": "fsdfsfs",
+      "location": "fsdfdsfsd",
+      "date": "2020-06-02T09:57:00.000Z",
+      "time": "19:00",
+      "attendees": []
+    }
+  ]
+}
